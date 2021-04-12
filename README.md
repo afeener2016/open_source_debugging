@@ -2,7 +2,7 @@
 documentation of open source projects assisted with:
 
 
-  *Godot Engine*
+  **Godot Engine**
 
    [Fixed multi selecting when searching node tree #27659] - https://github.com/godotengine/godot/pull/27659
 
